@@ -7,3 +7,5 @@ I go through different Clauses in SQL query where it is allowed to have a subque
 Finally, I look at the SQL commands like INSERT, UPDATE and DELETE where it is allowed to use subqueries.
 
 Purpose is to understand what subqueries are, how to use them and where to use them.# Sql-subqueries-
+
+A big thank to Thoufiq who is very good at SQL and generous to share all valueable knowledge to others.
